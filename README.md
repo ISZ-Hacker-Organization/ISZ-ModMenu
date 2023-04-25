@@ -6,9 +6,8 @@ Extremely expermental Mod-Menu for Ice Station Z (2021).
 
 # Plans:
 - Add Hotkeys
-- Add Some Defualt Options
-- Add some modules. (2/3 added)
-- Enable Plugins
+- Add Some Defualt Options (4/8)
+- Enable Plugins (iszlib.exe in works).
 
 
 
