@@ -8,7 +8,7 @@ Extremely expermental Mod-Menu for Ice Station Z (2021).
 # Plans:
 - Add Hotkeys
 - Add Some Defualt Options (4/8)
-- Removes Steamstub DRM (.uasset Mod Loading).
+- Removes Steamstub DRM (Will Allow External Mod Loading without Steamless).
 - Enable Plugins (iszlib.exe in works).
 
 
