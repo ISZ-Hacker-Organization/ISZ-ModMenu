@@ -2,13 +2,12 @@
 Extremely expermental Mod-Menu for Ice Station Z (2021).
 
 - [Download Stable Release](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.6.0-alpha-1/ISZ-ModMenu.zip)
-- [Download Canary Release](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.6.0-alpha-1/EXPERIMENTAL-ISZ-ModMenu.exe)
 
 
 # Plans:
 - Add Hotkeys
-- Add Some Defualt Options (4/8)
-- Removes Steamstub DRM (Will Allow External Mod Loading without Steamless).
+- Add Some Defualt Options (5/8)
+- Fix DRM Remover.
 - Enable Plugins (iszlib.exe in works).
 
 
