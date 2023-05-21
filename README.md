@@ -12,3 +12,8 @@
 # Why No Source?
 - This won't be explained throughly, but their is an exploit using the config files, and command line.
 - This Mod-Menu uses it to inject mods, plugins, etc.
+
+# Credits:
+- [@Crackko298](https://github.com/Cracko298) **- Head Developer of The ISZ-ModMenu.**
+- [@YT-Toaster](https://github.com/YT-Toaster) **- Head Developer of The [WTSM-Plugin](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin).**
+- [@SpeakerZ-01](https://github.com/SpeakerZ-01) **- Play Tester & Bug Catcher.**
