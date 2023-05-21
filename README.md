@@ -1,7 +1,7 @@
 # ISZ-ModMenu
-Extremely expermental Mod-Menu for Ice Station Z (2021).
+- An expermental Mod-Menu for Ice Station Z (2021).
 
-- [Download Stable Release](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.6.0-alpha-1/ISZ-ModMenu.zip)
+- [Download Stable Release](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.7.0-alpha-1/ISZ-ModMenu.zip)
 
 
 # Plans:
