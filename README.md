@@ -15,5 +15,5 @@
 
 # Credits:
 - [@Crackko298](https://github.com/Cracko298) **- Head Developer of The ISZ-ModMenu.**
-- [@YT-Toaster](https://github.com/YT-Toaster) **- Head Developer of The [WTSM-Plugin](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin).**
-- [@SpeakerZ-01](https://github.com/SpeakerZ-01) **- Play Tester & Bug Catcher.**
+- [@YT-Toaster](https://github.com/YT-Toaster) **- Developer of The [WTSM-Plugin](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin).**
+- [@SpeakerZ-01](https://github.com/SpeakerZ-01) **- Developer of The [ISZ-VS-Injector](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector) Module.**
